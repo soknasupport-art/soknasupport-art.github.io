@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sokna.tn",
+    "sha256_cert_fingerprints": [
+      "FC:58:B1:9A:9E:C5:AA:E8:BA:75:A6:38:04:A1:9B:BF:A9:69:BA:FF:D3:08:1B:AD:9F:C9:57:2A:CD:01:C8:FF"
+    ]
+  }
+}]
